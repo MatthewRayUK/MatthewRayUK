@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Matthew Ray</h1>
 <h3 align="center">A passionate Data Analyst from the UK</h3>
 
-- 👨‍💻 All of my projects are available at [www.matthewray.co.uk](www.matthewray.co.uk)
+- 👨‍💻 All of my projects are available at [www.matthewray.co.uk](https://www.matthewray.co.uk/)
 
 - 💬 Ask me about **Python, Tableau and PowerBI**
 
