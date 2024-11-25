@@ -1,11 +1,8 @@
 <h1 align="center">Hi 👋, I'm Matthew Ray</h1>
-<h3 align="center">An education Leader turned Data Enthusiast from the UK</h3>
+<h3 align="center">An education Leader turned Python Enthusiast from the UK</h3>
 
-- 🌱 I’m currently learning **more about Python**
+- 🌱 I’m currently learning **more about RESTful APIs**
 
-- 👨‍💻 All of my projects are available at [https://www.matthewray.co.uk/](https://www.matthewray.co.uk/)
-
-- 💬 Ask me about **Python, Tableau and SQL**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
