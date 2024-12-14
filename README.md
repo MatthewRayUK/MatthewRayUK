@@ -1,4 +1,4 @@
-**Hi 👋, I'm Matthew Ray***
+**Hi 👋, I'm Matthew Ray**
 An education Leader turned Python Enthusiast from the UK
 
 🌱 I’m currently learning:
