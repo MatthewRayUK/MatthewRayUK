@@ -1,14 +1,11 @@
-<h1 align="center">Hi 👋, I'm Matthew Ray</h1>
-<h3 align="center">An education Leader turned Python Enthusiast from the UK</h3>
+**Hi 👋, I'm Matthew Ray***
+An education Leader turned Python Enthusiast from the UK
 
-- 🌱 I’m currently learning **more about RESTful APIs**
+🌱 I’m currently learning:
+- Git and version control
+-  **more** about RESTful APIs
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+**Connect with me**
 <a href="https://linkedin.com/in/mrdata" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mrdata" height="30" width="40" /></a>
   <a href="https://www.codewars.com/users/Matthewray" target="blank"><img align="center" src="https://docs.codewars.com/logo.svg" alt="mrdata" height="30" width="30" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
