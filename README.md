@@ -29,10 +29,6 @@ I moved into software engineering after a career in education and data.
 
 That background shapes how I work - I'm collaborative, pragmatic, and comfortable explaining complex ideas clearly. I tend to think in systems, not just code, and care a lot about building things that actually work for users.
 
-## 🤝 Outside of work
-
-Alongside my role, I mentor aspiring developers, which helps me stay sharp and reinforces my focus on clear thinking and communication.
-
 
 **Connect with me**
 Always happy to connect or talk about backend engineering, learning, or building things from scratch.
