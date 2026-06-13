@@ -1,37 +1,39 @@
-Hi 👋, I'm Matthew
+# Hi 👋, I'm Matthew
 
-I'm a Backend Software Engineer based in the UK, working primarily with Python. I enjoy building reliable systems end-to-end - from API design through to deployment and observability.
+I'm a Backend Software Engineer based in the UK, building and maintaining production systems primarily in Python.
 
-## 🚀 What I'm working on
+I enjoy designing reliable software end-to-end - from API contracts and database design through to deployment, observability, and long-term maintainability. Most of my day-to-day work involves turning business requirements into robust systems that can evolve safely over time.
 
-Currently working in production systems using:
-- Python (FastAPI)
-- PostgreSQL + SQLAlchemy
-- Event-driven architecture (GCP Pub/Sub)
-- Docker + Kubernetes
-- CI/CD with GitHub Actions
+## 🚀 Current focus
 
-I focus on writing clean, testable code and building systems that are easy to reason about and maintain. A lot of my work involves designing APIs, handling async workflows, and thinking carefully about data flow across services.
+Working across distributed systems and production engineering with:
 
-## 🌱 Currently exploring
+* Python (FastAPI)
+* PostgreSQL + SQLAlchemy
+* Event-driven architecture (GCP Pub/Sub)
+* Docker + Kubernetes
+* CI/CD with GitHub Actions
+* Infrastructure and deployment workflows
 
-- Distributed system design patterns and trade-offs
-- Scaling event-driven architectures
-- Improving reliability, monitoring, and observability
-- Writing more idiomatic, typed Python
+I particularly enjoy:
+
+* API design and service boundaries
+* Async workflows and event-driven systems
+* Defensive testing and safe schema evolution
+* Reliability, monitoring, and production troubleshooting
+* Building tooling that removes manual processes
+
+## 🌱 Exploring
+
+* Distributed system trade-offs
+* Reliability engineering and observability
+* Typed Python and maintainable architecture
+* Designing systems that stay simple as they scale
 
 ## 💡 Background
 
-I moved into software engineering after a career in education and data.
+Before moving into software engineering, I spent 14+ years in education and leadership roles, including Assistant Head Teacher and Data Coach positions.
 
-- Former Assistant Head Teacher with 14+ years in education
-- Data Analyst working with SQL, Python, and Power BI
+That experience shaped how I work today - collaborative, pragmatic, and focused on helping teams make progress. I still enjoy mentoring aspiring developers and supporting people as they grow their technical confidence.
 
-That background shapes how I work - I'm collaborative, pragmatic, and comfortable explaining complex ideas clearly. I tend to think in systems, not just code, and care a lot about building things that actually work for users.
-
-
-**Connect with me**
-Always happy to connect or talk about backend engineering, learning, or building things from scratch.
-
-<a href="https://www.linkedin.com/in/mrsoftdev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mrsoftdev" height="30" width="40" /></a>
-  <a href="https://www.codewars.com/users/Matthewray" target="blank"><img align="center" src="https://docs.codewars.com/logo.svg" alt="mrdata" height="30" width="30" /></a>
+Always happy to connect and chat about backend engineering, systems design, or building useful things.
